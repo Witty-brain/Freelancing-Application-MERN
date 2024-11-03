@@ -1,1 +1,1 @@
-# freelancing-Application-MERN
+# Freelancing-Application-MERN
